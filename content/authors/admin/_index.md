@@ -33,13 +33,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:martin.p.adamski".
+  link: '/#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AdamskiMartin_
-# - icon: github
- # icon_pack: fab
-  # link: https://github.com/gcushen
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -58,6 +55,6 @@ highlight_name: false
 # user_groups:
 # - Researchers
 # - Visitors
-# ---
+---
 
 I currently work as a data analyst apprentice at the Reading Borough Council. I graduated with a first-class degree in Politics and International Relations from the University of Nottingham and I wrote my final dissertation on the topic of the social credit system in China. Outside of my work hours, I continue to develop my data analysis skills and I try to combine them with my passion for politics and techbology.
