@@ -57,4 +57,4 @@ highlight_name: false
 # - Visitors
 ---
 
-I currently work as a data analyst apprentice at the Reading Borough Council. I graduated with a first-class degree in Politics and International Relations from the University of Nottingham and I wrote my final dissertation on the topic of the social credit system in China. Outside of my work hours, I continue to develop my data analysis skills and I try to combine them with my passion for politics and techbology.
+I currently work as a data analyst apprentice at the Reading Borough Council. I graduated with a first-class degree in Politics and International Relations from the University of Nottingham and I wrote my final dissertation on the topic of the social credit system in China. Outside of my work hours, I continue to develop my data analysis skills and I try to combine them with my passion for politics and technology.
