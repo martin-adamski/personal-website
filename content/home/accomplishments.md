@@ -26,9 +26,7 @@ date_format = "Jan 2006"
   certificate_url = "https://eprofessional.bcs.org/Portal/eCertCheck"
   date_start = "2020-10-20"
   date_end = ""
-  description = "To verify the certificate: 
-    * certificate no: 00493481
-    * candidate no: OF38325585"
+  description = "To verify the certificate: certificate no: 00493481; candidate no: OF38325585"
 
 [[item]]
   organization = "Coursera | Macquarie University"
