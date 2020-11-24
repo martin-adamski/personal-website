@@ -27,8 +27,8 @@ date_format = "Jan 2006"
   date_start = "2020-10-20"
   date_end = ""
   description = "To verify the certificate: 
-  - certificate no: 00493481
-  - candidate no: OF38325585"
+    * certificate no: 00493481
+    * candidate no: OF38325585"
 
 [[item]]
   organization = "Coursera | Macquarie University"
