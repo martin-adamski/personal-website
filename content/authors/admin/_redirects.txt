@@ -1,0 +1,2 @@
+https://martin-adamski.netlify.app https://martinadamski.com 301!
+http://martin-adamski.netlify.app  https://martinadamski.com 301!
