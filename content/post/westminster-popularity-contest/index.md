@@ -2,7 +2,7 @@
 title: Westminster Popularity Contest
 subtitle: Social Network Analysis of UK MPs on Twitter
 date: 2021-01-10T11:37:10.403Z
-draft: true
+draft: false
 featured: false
 image:
   filename: featured
