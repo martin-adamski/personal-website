@@ -3,10 +3,9 @@
 
 title: "Party Bubbles and Exclusion - Westminster Twitter Analysis"
 subtitle: "Analysis of UK Parliament MPs' relations on Twitter, focusing on the numbers of 'following' and 'followers'"
-summary: "What started as a project to discover descriptive information about UK MPs on Twitter,
-such as who is the most followed MP, which MP follows the largest number of other MPs or which party dominates in the top 30 most followed MPs, turned into a much larger project, in which I also looked at the social networks that are present on Westminster Twitter and found evidence for the existence of party bubbles."
+summary: "What started as a project to discover basic descriptive information about UK MPs on Twitter, turned into a much larger project. For Twitter data collected between 19th December 2020 and 3rd January 2021, I found evidence for the increase of popularity of Twitter among Westminster MPs, existence of party bubbles and lack of interest in MPs, who do not belong to the two biggest parties."
 authors: []
-tags: ["dataviz", "networks", "politics"]
+tags: ["dataviz", "networks", "politics", "Twitter"]
 categories: []
 date: 2021-07-05
 featured: false
