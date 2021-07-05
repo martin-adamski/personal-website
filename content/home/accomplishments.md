@@ -19,6 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Microsoft"
+  organization_url = "https://www.microsoft.com/en-gb/"
+  title = "Microsoft Certified: Data Analyst Associate"
+  url = ""
+  certificate_url = "https://www.credly.com/badges/8fb07aa3-0fba-459b-8e9b-161352ddefab?source=linked_in_profile"
+  date_start = "2021-05-02"
+  date_end = "2023-05-02"
+  description = "Earning the Data Analyst Associate certification validates the skills and knowledge required to enable businesses to maximize the value of their data assets by using Microsoft Power BI"
+
+[[item]]
+  organization = "BCS, The Chartered Institute for IT"
+  organization_url = "https://www.bcs.org/"
+  title = "BCS Level 4 Certificate in Data Analysis Tools (603/0824/2)"
+  url = ""
+  certificate_url = "https://eprofessional.bcs.org/Portal/eCertCheck"
+  date_start = "2021-02-11"
+  date_end = ""
+  description = "To verify the certificate: Certificate no: 00501866 | Candidate no: MC38484747"
+
+[[item]]
   organization = "BCS, The Chartered Institute for IT"
   organization_url = "https://www.bcs.org/"
   title = "BCS Level 4 Diploma in Data Analysis Concepts (603/0823/0)"
@@ -26,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = "https://eprofessional.bcs.org/Portal/eCertCheck"
   date_start = "2020-10-20"
   date_end = ""
-  description = "To verify the certificate: certificate no: 00493481; candidate no: OF38325585"
+  description = "To verify the certificate: Certificate no: 00493481 | Candidate no: OF38325585"
 
 [[item]]
   organization = "Coursera | Macquarie University"

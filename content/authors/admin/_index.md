@@ -14,9 +14,10 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include British, European and Chinese politics and the impact of technology on governance and decision-making.
+bio: My interests include working with data and data storytelling, but also British, European and Chinese politics and the impact of technology on governance and decision-making.
 
 interests:
+- Working with data and data storytelling
 - British, European and Chinese Politics
 - Impact of Technology on Governance and Decision-Making
 
