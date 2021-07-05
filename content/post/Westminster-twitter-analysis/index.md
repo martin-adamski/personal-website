@@ -8,8 +8,7 @@ such as who is the most followed MP, which MP follows the largest number of othe
 authors: []
 tags: ["dataviz", "networks", "politics"]
 categories: []
-date: 2021-01-29T22:56:05Z
-lastmod: 2021-01-29T22:56:05Z
+date: 2021-07-05
 featured: false
 draft: false
 
