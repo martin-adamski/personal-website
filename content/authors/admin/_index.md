@@ -6,18 +6,18 @@ title: Martin Adamski
 superuser: true
 
 # Role/position
-role: Data Analyst Apprentice
+role: Data Analyst
 
 # Organizations/Affiliations
 organizations:
-- name: Reading Borough Council
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include working with data and data storytelling, but also British, European and Chinese politics and the impact of technology on governance and decision-making.
 
 interests:
-- Working with data and data storytelling
+- Data analysis, engineering and storytelling
 - British, European and Chinese Politics
 - Impact of Technology on Governance and Decision-Making
 
@@ -61,4 +61,4 @@ highlight_name: false
 # - Visitors
 ---
 
-I currently work as a data analyst apprentice at the Reading Borough Council. I graduated with a first-class degree in Politics and International Relations from the University of Nottingham and I wrote my final dissertation on the topic of the social credit system in China. Outside of my work hours, I continue to develop my data analysis skills and I try to combine them with my passion for politics and technology.
+I work as a data analyst in private sector. I graduated with a first-class degree in Politics and International Relations from the University of Nottingham and I wrote my final dissertation on the topic of the social credit system in China. Outside of my work hours, I continue to develop my data analysis skills and I try to combine them with my passion for politics and technology.
